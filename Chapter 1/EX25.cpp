@@ -4,8 +4,9 @@
 
 using namespace std;
 
-int isLarger(int a, int b){
+int isLarger(int a, int b) {
     return a>b ? a : b;
+    // (condition) ? true : false;
 }
 
 int main() {
@@ -23,3 +24,4 @@ int main() {
 
     return 0;
 }
+

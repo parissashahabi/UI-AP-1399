@@ -8,7 +8,7 @@ int main() {
 
     int n1, n2;
 
-    cout << "Three integer numbers: ";
+    cout << "Two integer numbers: ";
     cin >> n1 >> n2;
 
     if ( n1 % n2 == 0 ) cout << n1 << " is a multiplication of " << n2 << endl;
